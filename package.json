@@ -1,0 +1,23 @@
+{
+  "name": "FP",
+  "version": "1.0.0",
+  "description": "My Personal Investigation on JavaScript Functional Programming",
+  "main": "memoize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-o-j-a-t/FP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h-o-j-a-t/FP/issues"
+  },
+  "homepage": "https://github.com/h-o-j-a-t/FP#readme",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12"
+  }
+}
