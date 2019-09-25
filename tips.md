@@ -53,4 +53,4 @@ dependencies and, as such, tell us exactly what it's up to
 ---
 
 > **_A higher order function is a function that takes or returns a function_**
-> page 27
+> page 34
